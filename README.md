@@ -1,8 +1,7 @@
 # Discord-Windows-AV-Trigger
 This is a generator that allows you to put code into videos
 to set off the Windows Defender Anti-Virus. There is a video
-included that you can use with the program.
-<!> Also be sure to have your Anti-Virus disabled while running this tool! <!>
+included that you can use with the program. Also be sure to have your Anti-Virus disabled while running this tool!
 
 # Setup
 Make sure you have the latest version of golang installed.
